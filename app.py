@@ -7,8 +7,8 @@ app = Flask(__name__)
 def home():
     return """
 <center>
-    <h1> Welcome to My website </h1>
-    <p> This is the first website by Aman using HTML </p>
+    <h1> <a href="https://mraman.onrender.com">Welcome to My website </a></h1>
+    <p style="color:blue;"> This is the first website by Aman using HTML </p>
     <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" alt="https://github.com/Amanraj654/Test" style="border-radius: 12px;"/> 
 </center> 
 <style>
