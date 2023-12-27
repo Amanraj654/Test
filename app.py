@@ -7,11 +7,11 @@ app = Flask(__name__)
 def home():
     return """
 <center> 
-    <img src="https://i.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.webp" style="border-radius: 12px;"/> 
+    <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" style="border-radius: 12px;"/> 
 </center> 
 <style>
     body { 
-        background: antiquewhite;
+        background: pink;
     }
 </style>"""
 
