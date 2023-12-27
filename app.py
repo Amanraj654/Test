@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return """
 <center> 
-    <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" style="border-radius: 12px;"/> 
+    <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" alt="https://mraman.onrender.com" style="border-radius: 12px;"/> 
 </center> 
 <style>
     body { 
