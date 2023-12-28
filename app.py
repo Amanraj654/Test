@@ -12,9 +12,8 @@ def home():
     
     <a href="https://www.youtube.com/embed/wTjszS6qFm8"> <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg"> </a> 
     <hr> <hr> <br>
-    <iframe width="900" height="600" src="https://www.youtube.com/embed/wTjszS6qFm8">
+    <iframe width="600" height="900" src="https://www.youtube.com/embed/z2H_vtSb6XI">
 </iframe>
-
 </center>
 
 <style>
