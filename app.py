@@ -10,9 +10,10 @@ def home():
     <h1> <a href="https://mraman.onrender.com">Welcome to My website </a></h1>
     <p style="color:blue;"> This is the first website by Aman using HTML </p>
     <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" alt="Test" style="border-radius: 12px;"/> 
-</center>
-<iframe src="https://www.youtube.com/embed/wTjszS6qFm8">
+    <iframe src="https://www.youtube.com/embed/wTjszS6qFm8">
 </iframe>
+</center>
+
 <style>
     body { 
         background: pink;
