@@ -7,13 +7,14 @@ app = Flask(__name__)
 def home():
     return """
 <center>
-    <h1> <a href="https://mraman.onrender.com">Welcome to My website </a></h1>
-    <p style="color:blue;"> This is the first website by Aman using HTML </p>
-    <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" alt="Test" style="border-radius: 12px;"/> 
+    <h1> <a href="https://mraman.onrender.com"><b>Welcome to My website</b> </a></h1>
+    <h3 style="color:blue;"> <em>This is the first website by Aman using HTML </em> </h3>
+    
+    <a href="https://www.youtube.com/embed/wTjszS6qFm8"> <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg"> </a> 
     <hr> <hr> <br>
-    <iframe width="840" height="700" src="https://www.youtube.com/embed/wTjszS6qFm8">
+    <iframe width="900" height="600" src="https://www.youtube.com/embed/wTjszS6qFm8">
 </iframe>
-<a href="https://www.youtube.com/embed/wTjszS6qFm8"> <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg"> </a>
+
 </center>
 
 <style>
