@@ -11,8 +11,9 @@ def home():
     <p style="color:blue;"> This is the first website by Aman using HTML </p>
     <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg" alt="Test" style="border-radius: 12px;"/> 
     <hr> <hr> <br>
-    <iframe src="https://www.youtube.com/embed/wTjszS6qFm8">
+    <iframe width="840" height="700" src="https://www.youtube.com/embed/wTjszS6qFm8">
 </iframe>
+<a href="https://www.youtube.com/embed/wTjszS6qFm8"> <img src="https://graph.org/file/5c0eca2c261e127d7bba1.jpg"> </a>
 </center>
 
 <style>
